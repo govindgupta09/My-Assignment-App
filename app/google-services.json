@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214530026810",
+    "project_id": "my-assignment-app-e6345",
+    "storage_bucket": "my-assignment-app-e6345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214530026810:android:e52c2cf41ed631fbdbb403",
+        "android_client_info": {
+          "package_name": "com.govi.myassignmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHRdBhl6FGy2lkp932uT3rpuupuOkhSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Assignment App</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Let\'s Get started</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="sign_up_description_text">Enter your name, email id and password, to register with us.</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="sign_in_description_text">Enter your registered email id and password, to sign in successfully.</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="update">UPDATE</string>
+    <string name="my_profile">My Profile</string>
+    <string name="enter_your_registered_email_id_and_password_to_signin">Enter your registered email id and password, to signin.</string>
+
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="stock">Stock</string>
+    <string name="_3_800_usd">$ 3,800 USD</string>
+    <string name="discountpercentage">+2.5%</string>
+    <string name="ratings">3</string>
+    <string name="stars">Stars</string>
+    <string name="category">Category</string>
+    <string name="brand">Brand</string>
+
+</resources>
